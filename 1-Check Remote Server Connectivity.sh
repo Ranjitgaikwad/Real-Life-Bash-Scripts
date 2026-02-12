@@ -90,7 +90,7 @@ USAGE
 exit 0
 
 #=========================================================================================================
-: 'Note
+:'Note
 
 To use this script:
 
@@ -113,4 +113,5 @@ text
 Uncomment the IPLIST line in script and comment the SERVERS line
  
  Note'
+
 
